@@ -1,1 +1,0 @@
-// Stats component for popup

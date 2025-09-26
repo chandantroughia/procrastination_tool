@@ -1,1 +1,0 @@
-// Extension popup integration tests

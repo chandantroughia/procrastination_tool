@@ -1,1 +1,0 @@
-// Web dashboard integration tests

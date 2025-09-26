@@ -1,1 +1,0 @@
-// ProgressChart feature component

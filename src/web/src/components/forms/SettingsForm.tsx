@@ -1,1 +1,0 @@
-// SettingsForm component

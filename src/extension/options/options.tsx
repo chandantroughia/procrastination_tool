@@ -1,1 +1,0 @@
-// Options React component

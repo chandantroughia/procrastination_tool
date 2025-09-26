@@ -1,1 +1,0 @@
-// NotificationSettings component for options
